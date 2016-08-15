@@ -1,6 +1,6 @@
-package test.java.Gates;
+package test.java;
 
-import main.java.Gates.NOR;
+import main.java.Gates.OR;
 import main.java.Gates.Constants.HighConstant;
 import main.java.Gates.Constants.LowConstant;
 import main.java.exceptions.InvalidInputException;
@@ -14,7 +14,7 @@ import static org.junit.Assert.fail;
 /**
  * Created by Sam Roberts on 8/13/2016.
  */
-public class NORTEST {
+public class ORTest {
 	HighConstant one;
 	LowConstant zero;
 	@Before
@@ -24,11 +24,11 @@ public class NORTEST {
 	}
 	@Test
 	public void testOneOne() {
-		NOR nor = new NOR();
+		OR orGate = new OR();
 		try {
-			nor.addInput(one);
-			nor.addInput(one);
-			Assert.assertFalse(nor.computeOutput());
+			orGate.addInput(one);
+			orGate.addInput(one);
+			Assert.assertTrue(orGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -39,12 +39,12 @@ public class NORTEST {
 	}
 	@Test
 	public void testOneZero() {
-		NOR nor = new NOR();
+		OR orGate = new OR();
 
 		try {
-			nor.addInput(one);
-			nor.addInput(zero);
-			Assert.assertFalse(nor.computeOutput());
+			orGate.addInput(one);
+			orGate.addInput(zero);
+			Assert.assertTrue(orGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -55,11 +55,11 @@ public class NORTEST {
 	}
 	@Test
 	public void testZeroZero() {
-		NOR nor = new NOR();
+		OR orGate = new OR();
 		try {
-			nor.addInput(zero);
-			nor.addInput(zero);
-			Assert.assertTrue(nor.computeOutput());
+			orGate.addInput(zero);
+			orGate.addInput(zero);
+			Assert.assertFalse(orGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -70,12 +70,12 @@ public class NORTEST {
 	}
 	@Test
 	public void testMultipleInputTrue() {
-		NOR nor = new NOR();
+		OR orGate = new OR();
 		try {
 			for(int i = 0; i <5; i++) {
-				nor.addInput(one);
+				orGate.addInput(one);
 			}
-			Assert.assertFalse(nor.computeOutput());
+			Assert.assertTrue(orGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -86,14 +86,14 @@ public class NORTEST {
 	}
 	@Test
 	public void testMultipleInputFalse() {
-		NOR nor = new NOR();
+		OR orGate = new OR();
 		try {
-			nor.addInput(one);
-			nor.addInput(one);
-			nor.addInput(one);
-			nor.addInput(zero);
-			nor.addInput(zero);
-			Assert.assertFalse(nor.computeOutput());
+			orGate.addInput(one);
+			orGate.addInput(one);
+			orGate.addInput(one);
+			orGate.addInput(zero);
+			orGate.addInput(zero);
+			Assert.assertTrue(orGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -104,9 +104,9 @@ public class NORTEST {
 	}
 	@Test
 	public void testNoInputs() {
-		NOR nor = new NOR();
+		OR orGate = new OR();
 		try {
-			nor.computeOutput();
+			orGate.computeOutput();
 			fail("Should Have thrown exception");
 		} catch (NoValidInputException e) {
 			//e.printStackTrace();

@@ -1,6 +1,6 @@
-package test.java.Gates;
+package test.java;
 
-import main.java.Gates.NAND;
+import main.java.Gates.NOR;
 import main.java.Gates.Constants.HighConstant;
 import main.java.Gates.Constants.LowConstant;
 import main.java.exceptions.InvalidInputException;
@@ -14,7 +14,7 @@ import static org.junit.Assert.fail;
 /**
  * Created by Sam Roberts on 8/13/2016.
  */
-public class NANDTest {
+public class NORTEST {
 	HighConstant one;
 	LowConstant zero;
 	@Before
@@ -24,14 +24,14 @@ public class NANDTest {
 	}
 	@Test
 	public void testOneOne() {
-		NAND nand = new NAND();
+		NOR nor = new NOR();
 		try {
-			nand.addInput(one);
-			nand.addInput(one);
-			Assert.assertFalse(nand.computeOutput());
+			nor.addInput(one);
+			nor.addInput(one);
+			Assert.assertFalse(nor.computeOutput());
 		} catch (NoValidInputException e) {
-			e.printStackTrace();
 			fail();
+			e.printStackTrace();
 		} catch (InvalidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -39,11 +39,12 @@ public class NANDTest {
 	}
 	@Test
 	public void testOneZero() {
-		NAND nand = new NAND();
+		NOR nor = new NOR();
+
 		try {
-			nand.addInput(one);
-			nand.addInput(zero);
-			Assert.assertTrue(nand.computeOutput());
+			nor.addInput(one);
+			nor.addInput(zero);
+			Assert.assertFalse(nor.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -54,12 +55,11 @@ public class NANDTest {
 	}
 	@Test
 	public void testZeroZero() {
-		NAND nand = new NAND();
-
+		NOR nor = new NOR();
 		try {
-			nand.addInput(zero);
-			nand.addInput(zero);
-			Assert.assertTrue(nand.computeOutput());
+			nor.addInput(zero);
+			nor.addInput(zero);
+			Assert.assertTrue(nor.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -70,12 +70,12 @@ public class NANDTest {
 	}
 	@Test
 	public void testMultipleInputTrue() {
-		NAND nand = new NAND();
+		NOR nor = new NOR();
 		try {
 			for(int i = 0; i <5; i++) {
-				nand.addInput(one);
+				nor.addInput(one);
 			}
-			Assert.assertFalse(nand.computeOutput());
+			Assert.assertFalse(nor.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -86,14 +86,14 @@ public class NANDTest {
 	}
 	@Test
 	public void testMultipleInputFalse() {
-		NAND nand = new NAND();
+		NOR nor = new NOR();
 		try {
-			nand.addInput(one);
-			nand.addInput(one);
-			nand.addInput(one);
-			nand.addInput(zero);
-			nand.addInput(zero);
-			Assert.assertTrue(nand.computeOutput());
+			nor.addInput(one);
+			nor.addInput(one);
+			nor.addInput(one);
+			nor.addInput(zero);
+			nor.addInput(zero);
+			Assert.assertFalse(nor.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -104,10 +104,10 @@ public class NANDTest {
 	}
 	@Test
 	public void testNoInputs() {
-		NAND nand = new NAND();
+		NOR nor = new NOR();
 		try {
-			nand.computeOutput();
-			fail("Method Should Have thrown exception");
+			nor.computeOutput();
+			fail("Should Have thrown exception");
 		} catch (NoValidInputException e) {
 			//e.printStackTrace();
 		}

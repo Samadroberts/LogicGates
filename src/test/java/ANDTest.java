@@ -1,6 +1,6 @@
-package test.java.Gates;
+package test.java;
 
-import main.java.Gates.OR;
+import main.java.Gates.AND;
 import main.java.Gates.Constants.HighConstant;
 import main.java.Gates.Constants.LowConstant;
 import main.java.exceptions.InvalidInputException;
@@ -14,7 +14,7 @@ import static org.junit.Assert.fail;
 /**
  * Created by Sam Roberts on 8/13/2016.
  */
-public class ORTest {
+public class ANDTest {
 	HighConstant one;
 	LowConstant zero;
 	@Before
@@ -24,14 +24,14 @@ public class ORTest {
 	}
 	@Test
 	public void testOneOne() {
-		OR orGate = new OR();
+		AND andGate = new AND();
 		try {
-			orGate.addInput(one);
-			orGate.addInput(one);
-			Assert.assertTrue(orGate.computeOutput());
+			andGate.addInput(one);
+			andGate.addInput(one);
+			Assert.assertTrue(andGate.computeOutput());
 		} catch (NoValidInputException e) {
-			fail();
 			e.printStackTrace();
+			fail();
 		} catch (InvalidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -39,12 +39,11 @@ public class ORTest {
 	}
 	@Test
 	public void testOneZero() {
-		OR orGate = new OR();
-
+		AND andGate = new AND();
 		try {
-			orGate.addInput(one);
-			orGate.addInput(zero);
-			Assert.assertTrue(orGate.computeOutput());
+			andGate.addInput(one);
+			andGate.addInput(zero);
+			Assert.assertFalse(andGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -55,11 +54,12 @@ public class ORTest {
 	}
 	@Test
 	public void testZeroZero() {
-		OR orGate = new OR();
+		AND andGate = new AND();
+
 		try {
-			orGate.addInput(zero);
-			orGate.addInput(zero);
-			Assert.assertFalse(orGate.computeOutput());
+			andGate.addInput(zero);
+			andGate.addInput(zero);
+			Assert.assertFalse(andGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -70,12 +70,12 @@ public class ORTest {
 	}
 	@Test
 	public void testMultipleInputTrue() {
-		OR orGate = new OR();
+		AND andGate = new AND();
 		try {
 			for(int i = 0; i <5; i++) {
-				orGate.addInput(one);
+				andGate.addInput(one);
 			}
-			Assert.assertTrue(orGate.computeOutput());
+			Assert.assertTrue(andGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -86,14 +86,14 @@ public class ORTest {
 	}
 	@Test
 	public void testMultipleInputFalse() {
-		OR orGate = new OR();
+		AND andGate = new AND();
 		try {
-			orGate.addInput(one);
-			orGate.addInput(one);
-			orGate.addInput(one);
-			orGate.addInput(zero);
-			orGate.addInput(zero);
-			Assert.assertTrue(orGate.computeOutput());
+			andGate.addInput(one);
+			andGate.addInput(one);
+			andGate.addInput(one);
+			andGate.addInput(zero);
+			andGate.addInput(zero);
+			Assert.assertFalse(andGate.computeOutput());
 		} catch (NoValidInputException e) {
 			fail();
 			e.printStackTrace();
@@ -104,10 +104,10 @@ public class ORTest {
 	}
 	@Test
 	public void testNoInputs() {
-		OR orGate = new OR();
+		AND andGate = new AND();
 		try {
-			orGate.computeOutput();
-			fail("Should Have thrown exception");
+			andGate.computeOutput();
+			fail("Method Should Have thrown exception");
 		} catch (NoValidInputException e) {
 			//e.printStackTrace();
 		}

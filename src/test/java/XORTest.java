@@ -1,4 +1,4 @@
-package test.java.Gates;
+package test.java;
 
 import main.java.Gates.XOR;
 import main.java.Gates.Constants.HighConstant;

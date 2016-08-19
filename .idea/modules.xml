@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LogicGateSimulation.iml" filepath="$PROJECT_DIR$/LogicGateSimulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicGateSimulation/LogicGateSimulation.iml" filepath="$PROJECT_DIR$/LogicGateSimulation/LogicGateSimulation.iml" />
     </modules>
   </component>
 </project>

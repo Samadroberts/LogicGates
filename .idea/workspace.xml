@@ -6,49 +6,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc150b04-d2a2-4b62-8274-894d2c2d5c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/AND.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/Digital_Logic_Gates_clip_art_hight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NAND.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODELEFT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODERIGHT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NOR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/OR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/PEG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/LogicGateSimulation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/sample.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/ANDTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/NANDTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/NORTEST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/NOTTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/ORTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/XNORTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/XORTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/AND.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/Constants/HighConstant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/Constants/LowConstant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/LogicGate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/NAND.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/NOR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/NOT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/OR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/XNOR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/Gates/XOR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/exceptions/InvalidInputException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/exceptions/NoValidInputException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/main/java/main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/test/java/Gates/ANDTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/test/java/Gates/NANDTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/test/java/Gates/NORTEST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/test/java/Gates/NOTTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/test/java/Gates/ORTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/test/java/Gates/XNORTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LogicGateSimulation/test/java/Gates/XORTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/com/com.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/AND.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/Digital_Logic_Gates_clip_art_hight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/NAND.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/NODE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/NODELEFT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/NODERIGHT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/NOR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/OR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/resources/PEG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/ANDTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/NANDTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/NORTEST.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/NOTTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/ORTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/XNORTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/XORTest.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LogicGateSimulation.iws" />
@@ -106,7 +80,7 @@
       <file leaf-file-name="ANDTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/test/java/ANDTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-909">
+            <state relative-caret-position="-610">
               <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -317,198 +291,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Constants" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -982,13 +764,13 @@
       <workItem from="1471283291488" duration="3027000" />
       <workItem from="1471374727036" duration="1897000" />
       <workItem from="1471470831441" duration="2450000" />
-      <workItem from="1471552887223" duration="8687000" />
+      <workItem from="1471552887223" duration="8872000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_java_in_LogicGateSimulation - 2016.08.13 at 19h 46m 13s.xml">
-      <configuration name="test.java in LogicGateSimulation" configurationId="JUnit" />
+    <history-entry file="All_in_LogicGateSimulation - 2016.08.18 at 23h 56m 55s.xml">
+      <configuration name="All in LogicGateSimulation" configurationId="JUnit" />
     </history-entry>
     <history-entry file="test_java_in_LogicGateSimulation - 2016.08.13 at 19h 46m 23s.xml">
       <configuration name="test.java in LogicGateSimulation" configurationId="JUnit" />
@@ -1019,7 +801,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29899000" />
+    <option name="totallyTimeSpent" value="30084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1034,10 +816,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719395" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32394367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32394367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24733475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24733475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1212,9 +994,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1250,9 +1030,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1549,7 +1327,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/test/java/ANDTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-909">
+        <state relative-caret-position="-610">
           <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />

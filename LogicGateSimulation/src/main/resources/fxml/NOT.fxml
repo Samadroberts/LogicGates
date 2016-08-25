@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import gui.gates.NotGate?>
+<?import gui.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?scenebuilder-classpath-element ../../target/classes?>
+
+<NotGate fx:id="abstractGate" prefHeight="54.0" prefWidth="126.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.controllers.NotController">
+    <children>
+        <Pane fx:id="inputPane" prefHeight="53.0" prefWidth="41.0">
+            <children>
+                <InputNode fitHeight="16.0" fitWidth="16.0" layoutY="17.5">
+                    <image>
+                        <Image url="@../NODE.png" />
+                    </image>
+                </InputNode>
+                <ImageView fitHeight="4.0" fitWidth="62.0" layoutX="15.0" layoutY="24.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../PEG.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </Pane>
+        <Pane layoutX="39.0" prefHeight="53.0" prefWidth="102.0">
+            <children>
+                <ImageView fx:id="imageView" fitHeight="54.0" fitWidth="53.0" layoutX="-0.0" layoutY="4.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+                    <image>
+                        <Image url="@../NOT.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="4.0" fitWidth="62.0" layoutX="47.0" layoutY="25.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../PEG.png" />
+                    </image>
+                </ImageView>
+                <OutputNode fx:id="outputNode" fitWidth="15.0" layoutX="72.0" layoutY="19.0">
+                    <image>
+                        <Image url="@../NODE.png" />
+                    </image>
+                </OutputNode>
+            </children>
+        </Pane>
+    </children>
+</NotGate>

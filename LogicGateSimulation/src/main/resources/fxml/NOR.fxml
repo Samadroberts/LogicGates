@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import gui.gates.*?>
+<?import java.lang.*?>
+<?import gui.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?scenebuilder-classpath-element ../../target/classes?>
+
+<NorGate fx:id="abstractGate" prefHeight="54.0" prefWidth="135.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.controllers.NorController">
+    <children>
+        <Pane fx:id="inputPane" prefHeight="51.0" prefWidth="41.0">
+            <children>
+                <InputNode fitHeight="16.0" fitWidth="16.0" layoutY="3.5">
+                    <image>
+                        <Image url="@../NODE.png" />
+                    </image>
+                </InputNode>
+                <ImageView fitHeight="4.0" fitWidth="62.0" layoutX="15.0" layoutY="9.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../PEG.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="4.0" fitWidth="62.0" layoutX="15.0" layoutY="45.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../PEG.png" />
+                    </image>
+                </ImageView>
+                <InputNode fitHeight="16.0" fitWidth="16.0" layoutY="38.5">
+                    <image>
+                        <Image url="@../NODE.png" />
+                    </image>
+                </InputNode>
+            </children>
+        </Pane>
+        <Pane layoutX="33.0" prefHeight="49.0" prefWidth="107.0">
+            <children>
+                <ImageView fx:id="imageView" fitHeight="60.0" fitWidth="95.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../NOR.png" />
+                    </image>
+                </ImageView>
+                <OutputNode fx:id="outputNode" fitWidth="15.0" layoutX="87.0" layoutY="21.5">
+                    <image>
+                        <Image url="@../NODE.png" />
+                    </image>
+                </OutputNode>
+            </children>
+        </Pane>
+    </children>
+</NorGate>

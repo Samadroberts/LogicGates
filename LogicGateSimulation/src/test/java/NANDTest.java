@@ -1,7 +1,7 @@
 
-import Gates.Constants.HighConstant;
-import Gates.Constants.LowConstant;
-import Gates.NAND;
+import logic.Constants.HighConstantGate;
+import logic.Constants.LowConstantGate;
+import logic.gates.NAND;
 import exceptions.InvalidInputException;
 import exceptions.NoValidInputException;
 import org.junit.Assert;
@@ -14,12 +14,12 @@ import static org.junit.Assert.fail;
  * Created by Sam Roberts on 8/13/2016.
  */
 public class NANDTest {
-	HighConstant one;
-	LowConstant zero;
+	HighConstantGate one;
+	LowConstantGate zero;
 	@Before
 	public void init() {
-		one = new HighConstant();
-		zero = new LowConstant();
+		one = new HighConstantGate();
+		zero = new LowConstantGate();
 	}
 	@Test
 	public void testOneOne() {

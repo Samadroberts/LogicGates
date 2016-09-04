@@ -1,8 +1,8 @@
+import exceptions.InvalidInputException;
+import exceptions.NoValidInputException;
 import logic.Constants.HighConstantGate;
 import logic.Constants.LowConstantGate;
 import logic.gates.OR;
-import exceptions.InvalidInputException;
-import exceptions.NoValidInputException;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

@@ -4,93 +4,102 @@
     <option name="SCOPE_TYPE" value="8" />
     <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/Connection.java" line="19" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc150b04-d2a2-4b62-8274-894d2c2d5c3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/HIGH_CONSTANT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/LIGHT_OFF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/LIGHT_ON.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/LOW_CONSTANT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE_FALSE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE_NEUTRAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE_TRUE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NOT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Connection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/InputNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NODE_STATE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NodeMouseClicked.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/OutputNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/abstractNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/AndController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/HighConstantController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/LightBulbController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/LowConstantController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NandController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NorController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NotController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/OrController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/abstractController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/AndGate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NandGate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NorGate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NotGate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/OrGate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/abstractGate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/HighConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/LowConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/outputs/LightBulb.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulbOutput.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/AND.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/HIGHCONSTANT.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LIGHTBULB.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LOWCONSTANT.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NAND.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOR.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOT.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/OR.fxml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Controller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/nodeController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/node.fxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/node.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/sample.fxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/AND.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/Constants/HighConstant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/Constants/LowConstant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/LogicGate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/NAND.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/NOR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/NOT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/OR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/XNOR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Gates/XOR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/gui/Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/gui/controllers/nodeController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/gui/node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/sample.fxml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/AND.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/AND.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/Constants/HighConstant.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/Constants/HighConstantGate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/Constants/LowConstant.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/Constants/LowConstantGate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/LogicGate.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/LogicGate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/NAND.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/NAND.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/NOR.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/NOR.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/NOT.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/NOT.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/OR.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/OR.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/XNOR.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/XNOR.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/XOR.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/XOR.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/NOT.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/XNOR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/XOR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/RootLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/dragAndDrop/DragDropContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/GateType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/XnorGate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/XorGate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/InputNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/OutputNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/abstractNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseEnteredEventHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseExitedEventHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeListeners/rightPaneMouseMotionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/RootLayout.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/AND.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/LIGHTBULB.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/NAND.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/NOR.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/NOT.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/OR.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/XNOR.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/XOR.fxml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/InputNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NODE_STATE.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/OutputNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/abstractNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/AndController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/HighConstantController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/LightBulbController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/LowConstantController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NandController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NorController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NotController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/OrController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODELEFT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODERIGHT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE_FALSE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE_NEUTRAL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE_TRUE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NOT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/AND.fxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LIGHTBULB.fxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NAND.fxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOR.fxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOT.fxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/OR.fxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/AND.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/Digital_Logic_Gates_clip_art_hight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/NAND.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/NODE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/NODELEFT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/NODERIGHT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/NOR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/OR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/PEG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/main.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Connection.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/Connection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NodeMouseClicked.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseClickedEventHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/AND.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/AND.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/Digital_Logic_Gates_clip_art_hight.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gateextra/Digital_Logic_Gates_clip_art_hight.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/HIGH_CONSTANT.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/HIGH_CONSTANT.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/LIGHT_OFF.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/LIGHT_OFF.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/LIGHT_ON.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/LIGHT_ON.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/LOW_CONSTANT.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/LOW_CONSTANT.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NAND.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/NAND.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NOR.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/NOR.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/OR.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/OR.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/PEG.png" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gateextra/PEG.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/HIGHCONSTANT.fxml" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/HIGHCONSTANT.fxml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LOWCONSTANT.fxml" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/LOWCONSTANT.fxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/classes/gui/application.class" afterPath="$PROJECT_DIR$/LogicGateSimulation/target/classes/gui/application.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/ANDTest.class" afterPath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/ANDTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/NANDTest.class" afterPath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/NANDTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/NORTEST.class" afterPath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/NORTEST.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/NOTTest.class" afterPath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/NOTTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/ORTest.class" afterPath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/ORTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/XNORTest.class" afterPath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/XNORTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/XORTest.class" afterPath="$PROJECT_DIR$/LogicGateSimulation/target/test-classes/XORTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/pom.xml" afterPath="$PROJECT_DIR$/LogicGateSimulation/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/application.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/abstractController.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/abstractController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/AndGate.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/AndGate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NandGate.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NandGate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NorGate.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NorGate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NotGate.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NotGate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/OrGate.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/OrGate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/abstractGate.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/abstractGate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/HighConstant.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/HighConstant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/LowConstant.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/LowConstant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/outputs/LightBulb.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/outputs/LightBulb.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/AND.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/AND.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulbOutput.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulbOutput.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/ANDTest.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/ANDTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/NANDTest.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/NANDTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/NORTEST.java" afterPath="$PROJECT_DIR$/LogicGateSimulation/src/test/java/NORTEST.java" />
@@ -121,113 +130,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NAND.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NAND.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder">
-            <state />
-          </provider>
+      <file leaf-file-name="RootLayout.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/RootLayout.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            <state relative-caret-position="558">
+              <caret line="294" column="42" selection-start-line="294" selection-start-column="42" selection-end-line="294" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NOR.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NOR.png">
+      <file leaf-file-name="PEG.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gateextra/PEG.png">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NOR.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOR.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NorGate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NorGate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-              <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-              </folding>
-            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LightBulbOutput.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulbOutput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NorController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NorController.java">
+      <file leaf-file-name="InputNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/InputNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NOT.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOT.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="45">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1048#1049#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="OR.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/OR.fxml">
+        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/OR.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="JavaFX-Scene-Builder">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="30" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NandController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NandController.java">
+      <file leaf-file-name="WinApplication.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/com/sun/glass/ui/win/WinApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="197">
+              <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -256,56 +226,56 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Controller.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/sample.fxml" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/OR.FXML" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/nodeController.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/abstractGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/AndGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NODE_STATE.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/HighConstant.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Gates/AndGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Gates/HighConstant.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/OR.fxml" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/abstractGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/AndController.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/HighConstantController.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/Gates/LogicGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/XOR.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulb.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/LightBulbController.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/AND.fxml" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/HIGHCONSTANT.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/old/CircuitBoard.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/old/GateHolder.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/dragAndDrop/dragAndDropContainer.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/applciationController.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/applicationController.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/NodeMouseClicked.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/NodeMouseEnteredEventHandler.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseEventExitedEventHandler.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/dragAndDrop/DragDropContainer.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/test.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/CubicCurveManipulator.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/testNode.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/testNode.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/Testnode.java" />
         <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/abstractController.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/LIGHTBULB.fxml" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulbOutput.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/LightBulb.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/HighConstant.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeListeners/rightPaneMouseMotionListener.java" />
         <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/AndGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/abstractGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/OutputNode.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/abstractNode.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Connection.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/InputNode.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NodeMouseClicked.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/LowConstant.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/LowConstantController.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LOWCONSTANT.fxml" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/OrGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/OrController.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/AND.fxml" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/OR.fxml" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/LowConstant.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/outputs/LightBulb.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NotGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NotController.java" />
         <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NandGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOT.fxml" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NandController.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NAND.fxml" />
         <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NorGate.java" />
-        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NorController.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NotGate.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/OrGate.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/XnorGate.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/XorGate.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/outputs/LightBulb.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/HighConstant.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/LowConstant.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/TestOutputNode.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseClickedEventHandler.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/HIGHCONSTANT.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LOWCONSTANT.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NAND.fxml" />
         <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOR.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOT.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/OR.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/XNOR.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/XOR.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/RootLayout.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/abstractNode.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LIGHTBULB.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/Connection.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/RootLayout.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/old/OutputNode.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/AND.fxml" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/old/abstractNode.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseEnteredEventHandler.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseExitedEventHandler.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/TestNode.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/abstractGate.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/TestInputNode.java" />
+        <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/InputNode.java" />
         <option value="$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/application.java" />
       </list>
     </option>
@@ -329,10 +299,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1918" />
-    <option name="height" value="1038" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -359,9 +329,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -390,29 +357,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,36 +376,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fxml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -483,247 +398,18 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outputs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outputs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicGateSimulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exceptions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -738,18 +424,18 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\main\resources\fxml" />
-      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\main\java" />
-      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src" />
-      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\src\main\java\gui" />
-      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\src\main\resources\fxml\fxml" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\main\resources" />
       <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\test\java" />
       <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\src\resources" />
       <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\src\main\java\gui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\main\resources\images\gateextra" />
+      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\main\resources\images\gates" />
+      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\main\resources\images" />
+      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\main\resources\fxml\gates" />
+      <recent name="C:\Users\Sam Roberts\IdeaProjects\LogicGateSimulation\LogicGateSimulation\src\main\resources\fxml" />
     </key>
   </component>
   <component name="RunManager" selected="Application.application">
@@ -1157,9 +843,25 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <configuration default="false" name="draggableNodes" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="CubicCurveManipulator" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LogicGateSimulation" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.application" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.All in LogicGateSimulation" />
+      <item index="1" class="java.lang.String" itemvalue="Application.draggableNodes" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.All in LogicGateSimulation" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -1192,7 +894,19 @@
       <workItem from="1471655808636" duration="2009000" />
       <workItem from="1471818794906" duration="826000" />
       <workItem from="1471973409167" duration="26234000" />
-      <workItem from="1472066114406" duration="23908000" />
+      <workItem from="1472066114406" duration="24256000" />
+      <workItem from="1472149052626" duration="603000" />
+      <workItem from="1472241353074" duration="2836000" />
+      <workItem from="1472346617416" duration="6154000" />
+      <workItem from="1472405551085" duration="8977000" />
+      <workItem from="1472421462388" duration="4073000" />
+      <workItem from="1472501590770" duration="2967000" />
+      <workItem from="1472582759423" duration="15854000" />
+      <workItem from="1472672049571" duration="8970000" />
+      <workItem from="1472758112058" duration="6358000" />
+      <workItem from="1472837153029" duration="15335000" />
+      <workItem from="1472940829460" duration="13643000" />
+      <workItem from="1473016715952" duration="3258000" />
     </task>
     <servers />
   </component>
@@ -1229,65 +943,38 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92915000" />
+    <option name="totallyTimeSpent" value="182291000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719395" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33370167" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3237569" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.48507464" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65005416" sideWeight="0.18336888" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32827735" sideWeight="0.413113" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43336946" sideWeight="0.81663114" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24919268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2468017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39779004" sideWeight="0.4914712" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39653304" sideWeight="0.6007463" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32719395" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869988" sideWeight="0.4914712" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32719395" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32394367" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24733475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1310,509 +997,485 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/abstractNode.java</url>
-          <line>71</line>
-          <properties />
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/outputs/LightBulb.java</url>
-          <line>20</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Connection.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulbOutput.java</url>
-          <line>15</line>
+          <line>17</line>
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NodeMouseClicked.java</url>
-          <line>31</line>
+          <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/XOR.java</url>
+          <line>10</line>
           <properties />
-          <option name="timeStamp" value="65" />
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/abstractController.java</url>
-          <line>32</line>
+          <url>jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/fxml/FXMLLoader.java</url>
+          <line>2898</line>
           <properties />
-          <option name="timeStamp" value="72" />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/Connection.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/abstractNode.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/abstractNode.java</url>
+          <line>93</line>
+          <properties class="gui.nodes.abstractNode" method="addConnection" />
+          <option name="timeStamp" value="184" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="73" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="199" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="outputNode" />
-        <watch expression="outputNode" language="JAVA" />
-        <watch expression="inputNode" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/com/sun/javafx/event/EventHandlerManager.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/scene/Scene.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/NAND.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/NOR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/NOT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/OR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/XNOR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/XOR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/Constants/HighConstantGate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/AndController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NODE_STATE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/InputNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/com/sun/glass/ui/win/WinApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/abstractNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1290#1291#0" expanded="true" />
-            <element signature="e#1349#1350#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="167">
+          <caret line="2494" column="0" selection-start-line="2494" selection-start-column="0" selection-end-line="2494" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/event/Event.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
+        <state relative-caret-position="376">
           <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/main.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/stage/Window.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="193">
+          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/OutputNode.java">
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeListeners/rightPaneMouseMotionListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/LogicGate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="e#1145#1146#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/gates/AND.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LIGHTBULB.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/LightBulbController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/HighConstantController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/LowConstantController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/HIGHCONSTANT.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/LOWCONSTANT.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/HighConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/LowConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="-7">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NAND.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/AND.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/OrController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="2540" column="0" selection-start-line="2540" selection-start-column="0" selection-end-line="2540" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/NodeMouseClicked.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NotController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/abstractController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/abstractGate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/AndGate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NandGate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/OrGate.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NotGate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/outputs/LightBulb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NAND.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NandController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NOR.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOT.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/OR.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="30" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NorGate.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/NotGate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/OrGate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/XnorGate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/XorGate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/HighConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/constants/LowConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/outputs/LightBulb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/OutputNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
           <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulbOutput.java">
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/AndGate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/NorController.java">
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gates/AND.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/HIGHCONSTANT.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        <state relative-caret-position="442">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/NOR.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/LOWCONSTANT.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        <state relative-caret-position="340">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/NAND.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/NOR.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/NOT.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/XNOR.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/XOR.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseClickedEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="61" column="79" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/LIGHTBULB.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/RootLayout.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="118" selection-start-line="10" selection-start-column="118" selection-end-line="10" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/old/InputNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/old/OutputNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/AND.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/gates/abstractGate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="107" column="43" selection-start-line="107" selection-start-column="43" selection-end-line="107" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/old/abstractNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseEnteredEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/nodeEventHandlers/nodeMouseExitedEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/abstractNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#2034#2035#0" expanded="true" />
+            <element signature="e#2088#2089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/old/NodeState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/nodes/InputNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/fxml/gates/OR.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/logic/outputs/LightBulbOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/CubicCurveManipulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1151">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gateextra/Digital_Logic_Gates_clip_art_hight.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/RootLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="294" column="42" selection-start-line="294" selection-start-column="42" selection-end-line="294" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE_NEUTRAL.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODE_TRUE.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODELEFT.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/NODERIGHT.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/resources/images/gateextra/PEG.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        <state relative-caret-position="289">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicGateSimulation/src/main/java/gui/controllers/applicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/javafx-src.zip!/com/sun/glass/ui/win/WinApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
           <folding />
         </state>
       </provider>

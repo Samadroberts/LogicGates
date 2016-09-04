@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?scenebuilder-classpath-element ../../target/classes?>
+
+<?import gui.nodes.OutputNode?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<fx:root fx:id="root_pane" type="AnchorPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+    <Pane fx:id="inputPane">
+        <children>
+            <ImageView fx:id="imageView" fitHeight="62.0" fitWidth="53.0" pickOnBounds="true" preserveRatio="true">
+                <image>
+                    <Image url="@../../images/gates/HIGH_CONSTANT.png" />
+                </image>
+            </ImageView>
+            <OutputNode fx:id="outputNode" layoutX="87.0" layoutY="32.5" radius="8.0" />
+            <ImageView fitHeight="4.0" fitWidth="62.0" layoutX="51.0" layoutY="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../images/gateextra/PEG.png" />
+               </image>
+            </ImageView>
+        </children>
+    </Pane>
+</children>
+</fx:root>

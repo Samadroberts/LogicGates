@@ -1,10 +1,10 @@
-import logic.gates.AND;
-import logic.Constants.HighConstantGate;
-import logic.Constants.LowConstantGate;
-import logic.gates.NOT;
-import logic.gates.OR;
 import exceptions.InvalidInputException;
 import exceptions.NoValidInputException;
+import logic.Constants.HighConstantGate;
+import logic.Constants.LowConstantGate;
+import logic.gates.AND;
+import logic.gates.NOT;
+import logic.gates.OR;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

@@ -8,6 +8,7 @@ import exceptions.NoValidInputException;
 public class AND extends LogicGate {
 
 	public AND() {
+
 	}
 
 

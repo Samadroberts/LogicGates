@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?scenebuilder-classpath-element ../../target/classes?>
+
+<?import gui.nodes.InputNode?>
+<?import gui.nodes.OutputNode?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<fx:root fx:id="root_pane" type="AnchorPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Pane fx:id="inputPane" layoutX="2.0" prefHeight="55.0" prefWidth="41.0">
+            <children>
+                <InputNode layoutX="7.0" layoutY="10.0" />
+                <ImageView fitHeight="4.0" fitWidth="62.0" layoutX="15.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../images/gateextra/PEG.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="4.0" fitWidth="62.0" layoutX="15.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../images/gateextra/PEG.png" />
+                    </image>
+                </ImageView>
+                <InputNode layoutX="7.0" layoutY="45.5" />
+            </children>
+        </Pane>
+        <Pane layoutX="36.0" prefHeight="51.0" prefWidth="104.0">
+            <children>
+                <ImageView fx:id="imageView" fitHeight="60.0" fitWidth="95.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@../../images/gates/OR.png" />
+                    </image>
+                </ImageView>
+                <OutputNode fx:id="outputNode" layoutX="95.0" layoutY="29.0" />
+            </children>
+        </Pane>
+    </children>
+</fx:root>
